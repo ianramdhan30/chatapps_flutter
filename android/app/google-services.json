@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "794426732934",
+    "firebase_url": "https://livechat3007.firebaseio.com",
+    "project_id": "livechat3007",
+    "storage_bucket": "livechat3007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794426732934:android:c81eb7ce8b41a138fa3c07",
+        "android_client_info": {
+          "package_name": "com.example.chatapps_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794426732934-bio95hu207ka36383l93l5kia1aqtmt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapps_flutter",
+            "certificate_hash": "163ac399ef1c721b3b1e2ab3ea09f1c8072f12f2"
+          }
+        },
+        {
+          "client_id": "794426732934-ulj0li5qot0mu2nga3kugd2562r8ffab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkiStttMEZG2VBQVll4diayQzuv1A_bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794426732934-ulj0li5qot0mu2nga3kugd2562r8ffab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794426732934:android:9fb1dd514a4fb79e",
+        "android_client_info": {
+          "package_name": "com.fryanramzkhar.livechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794426732934-ulj0li5qot0mu2nga3kugd2562r8ffab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkiStttMEZG2VBQVll4diayQzuv1A_bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794426732934-ulj0li5qot0mu2nga3kugd2562r8ffab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794426732934:android:b6f4aacad44e2f87fa3c07",
+        "android_client_info": {
+          "package_name": "idn.project_whatsapp.whatsappapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794426732934-18h68kngc985glidbpu217ts6c1faj4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.project_whatsapp.whatsappapp",
+            "certificate_hash": "163ac399ef1c721b3b1e2ab3ea09f1c8072f12f2"
+          }
+        },
+        {
+          "client_id": "794426732934-ulj0li5qot0mu2nga3kugd2562r8ffab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkiStttMEZG2VBQVll4diayQzuv1A_bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794426732934-ulj0li5qot0mu2nga3kugd2562r8ffab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
